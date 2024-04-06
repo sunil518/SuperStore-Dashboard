@@ -37,4 +37,9 @@ For any questions, feedback, or technical assistance related to the Superstore D
 ## License
 The Superstore Dashboard is released under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this dashboard for both personal and commercial purposes, with attribution to the original source.
 
----
+## SuperStore Dashboard 
+![Dashboard 1](https://github.com/sunil518/SuperStore-Dashboard/assets/127589917/72607bdc-bb42-41ae-9158-220d1946af39)
+
+
+
+https://public.tableau.com/views/SuperstoreDashboard_17123957450280/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
