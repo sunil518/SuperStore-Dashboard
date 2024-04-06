@@ -7,7 +7,6 @@ The Superstore Dashboard is a data visualization tool designed to provide insigh
 ## Features
 - Interactive visualizations: Explore sales trends, regional performance, product categories, and more through interactive charts and graphs.
 - Filters and drill-down options: Filter data by date range, product category, region, and other parameters to focus on specific insights.
-- Key performance indicators (KPIs): Track important metrics such as sales revenue, profit margin, and customer segments at a glance.
 - Export functionality: Export charts and reports in various formats (e.g., PDF, Excel) for further analysis or reporting purposes.
 - User-friendly interface: Intuitive design with user-friendly navigation for easy exploration and data interpretation.
 
