@@ -1,4 +1,6 @@
 # SuperStore- Tableau Dashboard 
+![superstore](https://github.com/sunil518/SuperStore-Dashboard/assets/127589917/86a747c7-fe4e-4d72-85e9-5883e1ab6ec2)
+
 
 
 ## Overview
